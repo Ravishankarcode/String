@@ -52,3 +52,10 @@ public class GreedlySplit {
 	}
 }
   
+/**
+ * Dry Run
+ * Input :  R L L L L R R R L R
+ * count : -1 0 1 2 3 2 1 0 1 0
+ * result:    1           1   1 = 3
+ * 
+ */
