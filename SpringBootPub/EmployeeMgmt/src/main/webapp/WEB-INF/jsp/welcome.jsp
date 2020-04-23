@@ -1,1 +1,0 @@
-<h2>Wecome to Data JPA.</h2>
